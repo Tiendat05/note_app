@@ -1,5 +1,5 @@
 # note_app
-
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/28d0a2bf-3984-4a5e-8308-ed267f59ef8c" />
 A new Flutter project.
 
 ## Getting Started
